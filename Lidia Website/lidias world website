@@ -1,0 +1,41 @@
+html>
+<head>
+<title>My top 10 travel list</title>
+</head>
+<body>
+ <u>heres my dream vacay list</u>
+<h1>Top 10 travel list</h1><u>
+<p> I <u>love</u> <i> traveling</i> <b>the</b> <p>world</p..  The places listed below range from tropical, to rugged. But all have special qualties that make each place unique to itself
+ </p>
+
+<ol>
+  <li>Japan </li> 
+   <li>nigeria</li>
+   <li>dubaji</li>
+   <li>australia</li>
+   <li>china</li>
+   <li>new zeland<li/>
+   <li>san fransisco</li>
+   <li>costa rica</li>
+   <li>alberta,Canada</li>
+   <li>london</li>
+  </ol>
+   
+  <img width="15%" src="https://images.stockfreeimages.com/1762/sfixl/17623771.jpg" />
+<img width="15%" src="https://thumbs.dreamstime.com/z/cinema-vintage-entry-ticket-to-popcorn-around-clipping-path-included-42364268.jpg" /
+  
+  
+  <hr />
+  <center> Lidia Yelton <a
+  
+
+  
+ 
+</body>
+</html>
+<p><stromg>have you ever traveled out of your contry </strong></p>
+<form>
+<input type="radio" name= "trivia" value="Yes">No<br>
+<input type= "radio" name= "trivia" value="No">Yes<br>
+<input> type= "button"value="submit">
+</form>
